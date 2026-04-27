@@ -1,0 +1,68 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtijc
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# exclude Intellij project files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.xsd
+/out/
+/bin/
+
+# exclude Java Runtime files
+*.class
+
+# exclude Eclipse project files
+.project
+.classpath
+
+# exclude NetBeans project files
+nbproject/
+/nbactions.xml
+# exclude NetBeans project files
+nbproject/private/
+
+# exclude vscode project files
+.vscode/
+
+# exclude Android Studio project files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dictionaries
+.idea_modules/
+*.iws
+*.ipr
+/local.properties
+/.idea/shelf/
+/*.nvuser
+*.log
+*.tmp
+*.swp
+*~/project/target/
+!src/main/resources/**/*.*
+!src/test/resources/**/*.*
+build/
+/captures/
+*.cbk-temp.zip
+.DS_Store
+*.hprof
+.settings/
